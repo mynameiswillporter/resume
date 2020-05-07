@@ -1,5 +1,5 @@
 # William Porter
-mynameiswillporter@gmail.com
+*Email:* mynameiswillporter@gmail.com
 
 ## Profile
 Software engineering and computer security are two sides of the same coin. I am a competent software engineer and penetration tester, utilizing best practices in both fields. I have been working remote since 2017 and been loving it.

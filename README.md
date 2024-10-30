@@ -11,7 +11,7 @@ Hobbies include gardening, tending chickens and ducks, playing with my dogs, sew
 ## Experience
 
 ### Senior Product Security Engineer ###
-**GlossGenius** *(Feb 2023 - Present)*
+**GlossGenius** *Feb 2023 - Present*
 
 Created an Application Security program from scratch, including but not limited to a Vulnerability Management Program, Design Document Security Reviews, and Feature Penetration tests.
 
@@ -45,6 +45,7 @@ I also conduct penetration tests and handle ASV scans for compliance efforts and
 
 ### Staff Offensive Security Engineer
 **Datto, Inc** *Nov 2020 - Feb 2023*
+
 Performed full "Gloves Off" red team exercises focusing on realistic adversary emulation. True red team exercises allowed us to test the efficacy of our security controls and discover the true impact an adversary could have to the organization. These exercises focused on initial access, gaining persistence, pivoting laterally and escalating privileges, and data exfiltration.
 
 Worked to develop the concept and initial iteration of a Tactical Advanced Phishing Exercise, focusing on bypassing security controls and divining true impact in terms of susceptibility and blast radius. The initial exercise was a great success and data was used to drive adoption of Fido2 YubiKeys and WebAuthN. The exercise served as a foundation for subsequent phishing tests performed by the red team.
@@ -57,10 +58,12 @@ Performed penetration tests and vulnerability assessments. Created standardized 
 
 ### Associate Instructor
 **University of Central Florida · Contract** *Jan 2021 - Mar 2021 (Contract)*
+
 Associate Instructor for "Introduction to Python for Security". Assisted with lab exercises and facilitated classroom logistics.
 
 ### Associate Instructor
 **New Jersey Institute of Technology · Contract** *Jan 2021 - Mar 2021 (Contract)*
+
 Associate Instructor for "Introduction to Python for Security" and "Ethical Hacking". Assisted with classroom logistics. Ran labs demonstrating common offensive security techniques. Graded assignments and assisted with extra individual instruction.
 
 ### Senior Security Consultant

@@ -5,14 +5,14 @@
 ## Profile
 Seasoned Application Security and Offensive Security professional. I can build a vulnerability management program, run red team exercises, or find 0-days and develop exploits depending on what you want to pay me to do. 
 
-I'm also an experienced developer, though at this point in my time I mostly prefer to code in Python unless there is an application specific need for another language.
+I'm also an experienced developer, though at this point in my life I mostly prefer to code in Python unless there is an application specific need for another language.
 
 Hobbies include gardening, tending chickens and ducks, playing with my dogs, sewing, pottery, generic yard work and home improvement. I've visited 25 countries and enjoy international travel. 
 ## Experience
 
 ### Senior Product Security Engineer ###
-**GlossGenius**
-**Feb 2023 - Present**
+**GlossGenius** *(Feb 2023 - Present)*
+
 Created an Application Security program from scratch, including but not limited to a Vulnerability Management Program, Design Document Security Reviews, and Feature Penetration tests.
 
 Establishing the vulnerability management program included:
@@ -34,8 +34,7 @@ I also conduct penetration tests and handle ASV scans for compliance efforts and
 
 
 ### Co-founder, Principal Development Consultant
-**Jhowillies LLC**
-**Nov 2020 - Present**
+**Jhowillies LLC** *Nov 2020 - Present*
 
 * Co-founded and established a company using a work-for-hire software development consultancy model.
 * Worked to establish a niche by restricting our offerings to highly specialized web applications solving business logic problems that cannot be solved with existing commodity software.
@@ -45,8 +44,7 @@ I also conduct penetration tests and handle ASV scans for compliance efforts and
 * Guided junior staff through project tasks and professional development.
 
 ### Staff Offensive Security Engineer
-**Datto, Inc**
-**Nov 2020 - Feb 2023**
+**Datto, Inc** *Nov 2020 - Feb 2023*
 Performed full "Gloves Off" red team exercises focusing on realistic adversary emulation. True red team exercises allowed us to test the efficacy of our security controls and discover the true impact an adversary could have to the organization. These exercises focused on initial access, gaining persistence, pivoting laterally and escalating privileges, and data exfiltration.
 
 Worked to develop the concept and initial iteration of a Tactical Advanced Phishing Exercise, focusing on bypassing security controls and divining true impact in terms of susceptibility and blast radius. The initial exercise was a great success and data was used to drive adoption of Fido2 YubiKeys and WebAuthN. The exercise served as a foundation for subsequent phishing tests performed by the red team.
@@ -58,38 +56,32 @@ Solved the endemic problem of grouping similar web applications and devices in h
 Performed penetration tests and vulnerability assessments. Created standardized templates for Penetration Test notes and reports.
 
 ### Associate Instructor
-**University of Central Florida · Contract**
-**Jan 2021 - Mar 2021 (Contract)**
+**University of Central Florida · Contract** *Jan 2021 - Mar 2021 (Contract)*
 Associate Instructor for "Introduction to Python for Security". Assisted with lab exercises and facilitated classroom logistics.
 
 ### Associate Instructor
-**New Jersey Institute of Technology · Contract**
-**Jan 2021 - Mar 2021 (Contract)**
+**New Jersey Institute of Technology · Contract** *Jan 2021 - Mar 2021 (Contract)*
 Associate Instructor for "Introduction to Python for Security" and "Ethical Hacking". Assisted with classroom logistics. Ran labs demonstrating common offensive security techniques. Graded assignments and assisted with extra individual instruction.
 
 ### Senior Security Consultant
-**Lodestone Security**
-*Nov 2018 - Present*
+**Lodestone Security** *Nov 2018 - Present*
 
 Project lead on numerous vulnerability assessments, penetration tests, and OSINT projects. Developed a system to automate OSINT procedures and developed a reporting system in Python and Flask to process vulnerability scans and simplify the reporting system, increasing the productivity and utilization of consultants throughout the company.
 
 ### Software Developer
-**Candor (via Acquisition of Tenex Developers)**
-*Jan 2018 - Oct 2018*
+**Candor (via Acquisition of Tenex Developers)** *Jan 2018 - Oct 2018*
 
 Worked on the backend and frontend of an iOS React application to match users with health insurance plans available to them based on their specific needs. (Ruby on Rails, golang, React, React Native)
 
 ### Software Developer
-**Tenex Developers**
-*Jan 2017 - May 2018*
+**Tenex Developers** *Jan 2017 - May 2018*
 
 First non-founding employee of Tenex Developers.
 
 Worked remotely on multiple projects requiring both full-stack and DevOps skills. At Tenex I was project lead on two projects, one Angular and Ruby on Rails application and one Python Flask machine learning application. I also worked to migrate projects from various cloud hosting services to k8s running on Google Cloud. My favorite aspect of the work was working remotely and being largely independent. From a technical aspect I really enjoyed working with Ruby on Rails and Python scikit-learn.
 
 ### Software Engineer/Security Assurance Engineer
-**FactSet Research Systems**
-*Jun 2012 - Jul 2015*
+**FactSet Research Systems** *Jun 2012 - Jul 2015*
 
 **Central Authentication Group** - Developed a distributed, authenticated reverse proxy for a service oriented architecture. Developed a web authentication portal. Responsible for deprecation of and transition from legacy authentication systems. Developer for a distributed message bus system.
 
@@ -98,8 +90,7 @@ Worked remotely on multiple projects requiring both full-stack and DevOps skills
 **Security Assurance Intern** (*Jun 2011 - Nov 2011*) - Wrote fuzzers. Audited custom filesystems. Developed security and authentication systems.
 
 ### Software Engineering Intern
-**MITRE**
-*Jun 2010 - Aug 2010*
+**MITRE** *Jun 2010 - Aug 2010*
 
 Developed software to allow realistic IP network simulations using layer 1 data derived from AGI Satellite Toolkit scenarios.
 
